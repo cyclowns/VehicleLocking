@@ -1,0 +1,3 @@
+Title : 	Vehicle Locking
+Author : 	ZombieDude
+Stuff : 	Just locks your car/plane/boat/spaceship/speeder. Uses Item_Key for models, which is default so it doesn't matter. Also uses a servercmd.
